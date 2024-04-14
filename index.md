@@ -1,5 +1,10 @@
 # Olivia Hajek
-![Picture of Olivia Hajek outside](https://www.biology.colostate.edu/wp-content/uploads/sites/21/2023/02/olivia-hajek-headshot.jpg)
+
+<img 
+  src="https://www.biology.colostate.edu/wp-content/uploads/sites/21/2023/02/olivia-hajek-headshot.jpg" 
+  alt="Picture of Olivia Hajek outside!" 
+  width="45%">
+
 Hi! I am an ecosystem ecologist currently working as a postdoctoral researcher at the USDA-ARS in Fort Collins, Colorado. Prior to this position, I received my PhD from Colorado State University in 2023; my dissertation research focused on understanding ecosystem responses to shifts in the seasonal timing of water availability. I continue to be interested in understanding how climate change is affecting ecosystem structure and function - particularly extreme weather events. 
 
 - olivia.hajek@usda.gov
